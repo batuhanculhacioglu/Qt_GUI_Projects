@@ -67,6 +67,17 @@ void GLWidget::drawCube() {
     // Her yüzey için renk ve köşe noktaları belirtilir
     // Yüzeyler, küpün içerisine doğru bakacak şekilde sıralanır
 
+    /* Cisimler çizilirken bakış yönüne göre sol alttan başlanarak çizilmelidir.
+    glNormal3f fonksiyonu kullanılarak cisimlerin ışıklandırma yönünün
+    yani görüntülenme yönünün ekrana bakan kullanıcıya doğru mu yoksa tersi
+    yöne olduğumu belirlenmeye çalışılmış ama etkisi olmamıştır. Bu nedenle
+    cisimlerin yönünü belirleyebilmek için başlangıç noktası önemlidir.
+
+    Koordinat sistemi cismin merkezinde olacak şekilde ayarlanmıştır.
+
+    Z ekseni ekrana bakan kullanıcıya doğru 1'dir.
+    */
+    
     // Ön yüzey (z = 1)
     glColor3f(1.0f, 0.0f, 0.0f); // Kırmızı renk
     glVertex3f(-1.0f, -1.0f, 1.0f);
