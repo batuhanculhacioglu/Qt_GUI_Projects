@@ -1,4 +1,4 @@
-<h4> Teknofest Roket yarışmasında kullanılabilecek bir arayüz tasarımıdır. 
+<h4> Teknofest Roket yarışmasında kullanılabilecek bir arayüz tasarımıdır. Qt Designer C++ kullanılarak çalışmaları gerçekleştirmekteyim. 
   Roketin içerisinde yer alan 3 eksen açı ölçerden(atalet sensörü) elde edilen veriler ile 3 boyutlu roket simülasyonu, aviyonik sistemler üzerinden elde edilen bütün verilerin 
 görüntülendiği bir arayüz projesidir.</h4>
 
