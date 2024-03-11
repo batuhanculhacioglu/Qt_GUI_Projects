@@ -12,5 +12,7 @@ görüntülendiği bir arayüz projesidir.</h4>
 <h4>V2</h4>
 <h5> AzakRoketTakımıYerIstasyonuV2.png ---> atalet sensöründen elde edilen verilerin 3 boyutlu cisime aktarılması ve verilerin görüntülediği versiyon güncellemesi.</h5>
 
+<h4>V3</h4>
+<h5> AzakRoketTakımıYerIstasyonuV2.png ---> atalet sensöründen elde edilen verilerin grafiğinin qCustomPlot kullanılarak çizdirilme ekranı eklenti güncellemesi.</h5>
 
 
