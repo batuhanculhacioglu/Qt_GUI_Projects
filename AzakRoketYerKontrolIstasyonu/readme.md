@@ -3,6 +3,12 @@
 görüntülendiği bir arayüz projesidir.</h4>
 
 <h4>Güncel Yer İstasyonu Ekranı V3.1</h4>
+<!DOCTYPE html>
+<html>
+<body>
+<a href="https://www.youtube.com/watch?v=_bBFuw_70l8&t=75s">Yer İstasyonu MPU9255 ile Test ve Açıklama Videosu</a>
+</body>
+</html>
 <img src="https://github.com/batuhanculhacioglu/Qt_GUI_Projects/blob/main/AzakRoketYerKontrolIstasyonu/AzakRoketTak%C4%B1m%C4%B1YerIstasyonuV3.1.png">
 
 <h4>V1</h4>
