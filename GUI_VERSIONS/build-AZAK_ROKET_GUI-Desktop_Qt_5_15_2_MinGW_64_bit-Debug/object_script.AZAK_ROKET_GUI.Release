@@ -1,0 +1,11 @@
+release/AR_camControl.o
+release/AR_drawObject.o
+release/AR_graphControl.o
+release/ar_serialCommunication.o
+release/main.o
+release/mainwindow.o
+release/qcustomplot.o
+release/rocketSimWidget.o
+release/moc_ar_serialCommunication.o
+release/moc_mainwindow.o
+release/moc_qcustomplot.o

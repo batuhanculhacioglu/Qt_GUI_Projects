@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a450be79e97e6c922273.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "001_GUI_Widget_Application",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "001_GUI_Widget_Application::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-001_GUI_Widget_Application-Debug-a92cf59e9261b1a437af.json",
+					"name" : "001_GUI_Widget_Application",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "001_GUI_Widget_Application_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-001_GUI_Widget_Application_autogen-Debug-624fdf715c4f512c63be.json",
+					"name" : "001_GUI_Widget_Application_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "001_GUI_Widget_Application_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-001_GUI_Widget_Application_autogen_timestamp_deps-Debug-8ec59a8ea2429b10250c.json",
+					"name" : "001_GUI_Widget_Application_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/MONSTER/Desktop/Qt_GUI_Calismalarim/build-001_GUI_Widget_Application-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/MONSTER/Desktop/Qt_GUI_Calismalarim/001_GUI_Widget_Application"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

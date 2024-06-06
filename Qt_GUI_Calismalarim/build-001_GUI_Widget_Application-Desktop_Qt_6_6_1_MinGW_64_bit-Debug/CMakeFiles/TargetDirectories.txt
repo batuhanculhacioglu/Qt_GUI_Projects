@@ -1,0 +1,9 @@
+C:/Users/MONSTER/Desktop/Qt_GUI_Calismalarim/build-001_GUI_Widget_Application-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/001_GUI_Widget_Application.dir
+C:/Users/MONSTER/Desktop/Qt_GUI_Calismalarim/build-001_GUI_Widget_Application-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/MONSTER/Desktop/Qt_GUI_Calismalarim/build-001_GUI_Widget_Application-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/MONSTER/Desktop/Qt_GUI_Calismalarim/build-001_GUI_Widget_Application-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/MONSTER/Desktop/Qt_GUI_Calismalarim/build-001_GUI_Widget_Application-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/MONSTER/Desktop/Qt_GUI_Calismalarim/build-001_GUI_Widget_Application-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/MONSTER/Desktop/Qt_GUI_Calismalarim/build-001_GUI_Widget_Application-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/MONSTER/Desktop/Qt_GUI_Calismalarim/build-001_GUI_Widget_Application-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/001_GUI_Widget_Application_autogen_timestamp_deps.dir
+C:/Users/MONSTER/Desktop/Qt_GUI_Calismalarim/build-001_GUI_Widget_Application-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/001_GUI_Widget_Application_autogen.dir

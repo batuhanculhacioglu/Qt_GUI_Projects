@@ -1,0 +1,11 @@
+debug/AR_camControl.o
+debug/AR_drawObject.o
+debug/AR_graphControl.o
+debug/ar_serialCommunication.o
+debug/main.o
+debug/mainwindow.o
+debug/qcustomplot.o
+debug/rocketSimWidget.o
+debug/moc_ar_serialCommunication.o
+debug/moc_mainwindow.o
+debug/moc_qcustomplot.o
